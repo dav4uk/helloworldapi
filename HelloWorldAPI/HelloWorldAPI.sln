@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldAPI", "HelloWorldAPI\HelloWorldAPI.csproj", "{8323EDCB-0695-449C-95A3-DF5119FAFDC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore.Data", "BookStore.Data\BookStore.Data.csproj", "{2BCAC282-671D-4A0B-9559-EA611985F13D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8323EDCB-0695-449C-95A3-DF5119FAFDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8323EDCB-0695-449C-95A3-DF5119FAFDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8323EDCB-0695-449C-95A3-DF5119FAFDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8323EDCB-0695-449C-95A3-DF5119FAFDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BCAC282-671D-4A0B-9559-EA611985F13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCAC282-671D-4A0B-9559-EA611985F13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BCAC282-671D-4A0B-9559-EA611985F13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BCAC282-671D-4A0B-9559-EA611985F13D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

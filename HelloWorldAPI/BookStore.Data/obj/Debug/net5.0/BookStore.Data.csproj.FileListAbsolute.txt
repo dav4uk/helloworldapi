@@ -1,0 +1,12 @@
+/home/roman/RiderProjects/HelloWorldAPI/BookStore.Data/bin/Debug/net5.0/BookStore.Data.deps.json
+/home/roman/RiderProjects/HelloWorldAPI/BookStore.Data/bin/Debug/net5.0/BookStore.Data.dll
+/home/roman/RiderProjects/HelloWorldAPI/BookStore.Data/bin/Debug/net5.0/ref/BookStore.Data.dll
+/home/roman/RiderProjects/HelloWorldAPI/BookStore.Data/bin/Debug/net5.0/BookStore.Data.pdb
+/home/roman/RiderProjects/HelloWorldAPI/BookStore.Data/obj/Debug/net5.0/BookStore.Data.csproj.AssemblyReference.cache
+/home/roman/RiderProjects/HelloWorldAPI/BookStore.Data/obj/Debug/net5.0/BookStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/roman/RiderProjects/HelloWorldAPI/BookStore.Data/obj/Debug/net5.0/BookStore.Data.AssemblyInfoInputs.cache
+/home/roman/RiderProjects/HelloWorldAPI/BookStore.Data/obj/Debug/net5.0/BookStore.Data.AssemblyInfo.cs
+/home/roman/RiderProjects/HelloWorldAPI/BookStore.Data/obj/Debug/net5.0/BookStore.Data.csproj.CoreCompileInputs.cache
+/home/roman/RiderProjects/HelloWorldAPI/BookStore.Data/obj/Debug/net5.0/BookStore.Data.dll
+/home/roman/RiderProjects/HelloWorldAPI/BookStore.Data/obj/Debug/net5.0/ref/BookStore.Data.dll
+/home/roman/RiderProjects/HelloWorldAPI/BookStore.Data/obj/Debug/net5.0/BookStore.Data.pdb
